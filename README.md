@@ -1,16 +1,25 @@
-### Hi there 👋
+# Nice to meet you ~ ✨
 
-<!--
-**Seredyon/Seredyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm software engineer, who's using python + PyQt5 or Tkinter for Desktop / Mobile App.
 
-Here are some ideas to get you started:
+##Skills 💻
+Creating native Python applications for various platforms from scratch using various GUIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+UI & UX Design.
+
+Creation of simple websites based on HTML5 + CSS.
+### Programming languages
+
+![Python]
+
+### Operating systems
+
+![Windows]
+
+### Technologies and frameworks
+
+![Flask] ![HTML5] ![PyQt5] ![Tkinter]
+
+## Contact me 📫
+
+[![Telegram]] [![VK]] [![Instagram]]
