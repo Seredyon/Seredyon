@@ -58,12 +58,9 @@
 
 <h2 align="center">Contact me 📫</h2>
 
-<table align="center">
-  <tr>
-    <td>Telegram:</td>
-    <td><a href="https://t.me/Ice_vol0w_Come">Ice_vol0w_Come</a></td>
-  </tr>
-</table>
+<p align="center">
+  Telegram: <a href="https://t.me/Ice_vol0w_Come">Ice_vol0w_Come</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Seredyon" target="_blank">
