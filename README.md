@@ -12,7 +12,7 @@
   
   <li><b>UI & UX Design.</li>
     
-  <li><b>Web Development:</b> Building simple websites using HTML5 and CSS.</li>
+  <li><b>Web Development:</b> Building simple websites using HTML5, CSS and JS.</li>
 </ul>
 
 <h2 align="center">💻 Tech Stack</h2>
