@@ -15,26 +15,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<ul>
-  <li><b>Programming Language:</b> Python</li>
-  <li><b>Operating Systems:</b> Windows, Android</li>
-  <li><b>Frameworks & Technologies:</b> Flask, HTML5, PyQt5, Tkinter</li>
-</ul>
-
-<h2 align="center">Contact me 📫</h2>
-
-<p align="center">
-  Telegram: <a href="https://t.me/Ice_vol0w_Come">Ice_vol0w_Come</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Seredyon" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
-</p>
-
-### 🚀 Languages & Tools
-
+### Languages & Tools
 <p align="center">
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
@@ -57,11 +38,27 @@
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python" alt="Tkinter">
   </a>
+</p>
+
+### Operating Systems
+<p align="center">
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" alt="Windows">
   </a>
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android" alt="Android">
+  </a>
+</p>
+
+<h2 align="center">Contact me 📫</h2>
+
+<p align="center">
+  Telegram: <a href="https://t.me/Ice_vol0w_Come">Ice_vol0w_Come</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Seredyon" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
 </p>
 
