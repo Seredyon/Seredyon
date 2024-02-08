@@ -9,65 +9,42 @@
 
 <ul>
   <li><b>Application Development:</b> Creating native Python applications for various platforms from scratch using PyQt5 and Tkinter.</li>
+  
   <li><b>UI & UX Design.</li>
-  <li><b>Web Development:</b> Building simple websites using HTML5, CSS, JS.</li>
+    
+  <li><b>Web Development:</b> Building simple websites using HTML5, CSS and JS.</li>
 </ul>
 
 <h2 align="center">💻 Tech Stack</h2>
 
-### Languages & Frameworks
-<p align="center">
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
-  </a>
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">
-  </a>
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">
-  </a>
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
-  </a>
-</p>
-
-### Frameworks & Libraries
-<p align="center">
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask" alt="Flask">
-  </a>
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/pyqt5-black?style=for-the-badge&logo=qt" alt="PyQt5">
-  </a>
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python" alt="Tkinter">
-  </a>
-</p>
-
-<h2 align="center">💻 Supported Platforms</h2>
-
-### Operating Systems
-<p align="center">
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" alt="Windows">
-  </a>
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android" alt="Android">
-  </a>
-</p>
+<ul>
+  <li><b>Languages:</b></li>
+  <ul>
+    <li>Python</li>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>JavaScript</li>
+  </ul>
+  
+  <li><b>Frameworks & Technologies:</b></li>
+  <ul>
+    <li>Flask</li>
+    <li>PyQt5</li>
+    <li>Tkinter</li>
+  </ul>
+  
+  <li><b>Operating Systems:</b></li>
+  <ul>
+    <li>Windows</li>
+    <li>Android</li>
+  </ul>
+</ul>
 
 <h2 align="center">Contact me 📫</h2>
 
-<table align="center">
-  <tr>
-    <td>Telegram:</td>
-    <td><a href="https://t.me/Ice_vol0w_Come">Ice_vol0w_Come</a></td>
-  </tr>
-</table>
-
 <p align="center">
-  <a href="https://github.com/Seredyon" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  <a href="https://t.me/Ice_vol0w_Come">
+    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </p>
 
