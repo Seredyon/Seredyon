@@ -15,7 +15,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-### Languages & Tools
+### Languages & Frameworks
 <p align="center">
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
@@ -39,6 +39,8 @@
     <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python" alt="Tkinter">
   </a>
 </p>
+
+<h2 align="center">💻 Supported Platforms</h2>
 
 ### Operating Systems
 <p align="center">
