@@ -5,7 +5,7 @@
   <i>Let's craft amazing applications together!</i><br>
 </p>
 
-<h2 align="center">Skills 💻</h2>
+<h2 align="center">🛠️ Skills</h2>
 
 <ul>
   <li><b>Application Development:</b> Creating native Python applications for various platforms from scratch using PyQt5 and Tkinter.</li>
