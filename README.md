@@ -1,25 +1,16 @@
 # Nice to meet you ~ ✨
 
-I'm software engineer, who's using python + PyQt5 or Tkinter for Desktop / Mobile App.
+I'm a Software Engineer specializing in Python, with experience in PyQt5 and Tkinter for Desktop/Mobile App development.
 
 ##Skills 💻
-Creating native Python applications for various platforms from scratch using various GUIs.
+- **Application Development**: Creating native Python applications for various platforms from scratch using PyQt5 and Tkinter.
+- **UI & UX Design**: Crafting intuitive and user-friendly interfaces.
+- **Web Development**: Building simple websites using HTML5 and CSS.
 
-UI & UX Design.
-
-Creation of simple websites based on HTML5 + CSS.
-### Programming languages
-
-![Python]
-
-### Operating systems
-
-![Windows]
-
-### Technologies and frameworks
-
-![Flask] ![HTML5] ![PyQt5] ![Tkinter]
+## 💻 Tech Stack
+- **Programming Language**: Python
+- **Operating Systems**: Windows, Android
+- **Frameworks & Technologies**: Flask, HTML5, PyQt5, Tkinter
 
 ## Contact me 📫
-
-[![Telegram]] [![VK]] [![Instagram]]
+- Telegram: [https://t.me/Ice_vol0w_Come]
