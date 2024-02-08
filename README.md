@@ -33,20 +33,37 @@
   </a>
 </p>
 
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Seredyon)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Seredyon)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Seredyon)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Seredyon)
+### 🚀 Languages & Tools
 
-### Frameworks & Technologies
-[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Seredyon)
-[![PyQt5](https://img.shields.io/badge/pyqt5-black?style=for-the-badge&logo=qt)](https://github.com/Seredyon)
-[![Tkinter](https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python)](https://github.com/Seredyon)
-
-### Operating Systems
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Seredyon)
-[![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)](https://github.com/Seredyon)
+<p align="center">
+  <a href="https://github.com/Seredyon">
+    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
+  </a>
+  <a href="https://github.com/Seredyon">
+    <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">
+  </a>
+  <a href="https://github.com/Seredyon">
+    <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">
+  </a>
+  <a href="https://github.com/Seredyon">
+    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
+  </a>
+  <a href="https://github.com/Seredyon">
+    <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask" alt="Flask">
+  </a>
+  <a href="https://github.com/Seredyon">
+    <img src="https://img.shields.io/badge/pyqt5-black?style=for-the-badge&logo=qt" alt="PyQt5">
+  </a>
+  <a href="https://github.com/Seredyon">
+    <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python" alt="Tkinter">
+  </a>
+  <a href="https://github.com/Seredyon">
+    <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" alt="Windows">
+  </a>
+  <a href="https://github.com/Seredyon">
+    <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android" alt="Android">
+  </a>
+</p>
 
 <details>
   <summary><h2 align="center">GitHub Stats</h2></summary>
