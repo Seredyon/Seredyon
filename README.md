@@ -9,7 +9,9 @@
 
 <ul>
   <li><b>Application Development:</b> Creating native Python applications for various platforms from scratch using PyQt5 and Tkinter.</li>
-  <li><b>UI & UX Design:</b> Crafting intuitive and user-friendly interfaces.</li>
+  
+  <li><b>UI & UX Design.</li>
+    
   <li><b>Web Development:</b> Building simple websites using HTML5 and CSS.</li>
 </ul>
 
