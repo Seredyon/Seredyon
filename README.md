@@ -9,10 +9,8 @@
 
 <ul>
   <li><b>Application Development:</b> Creating native Python applications for various platforms from scratch using PyQt5 and Tkinter.</li>
-  
   <li><b>UI & UX Design.</li>
-    
-  <li><b>Web Development:</b> Building simple websites using HTML5, CSS and JS.</li>
+  <li><b>Web Development:</b> Building simple websites using HTML5, CSS, JS.</li>
 </ul>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -39,6 +37,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Seredyon)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Seredyon)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Seredyon)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Seredyon)
 
 ### Frameworks & Technologies
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Seredyon)
@@ -63,4 +62,3 @@
     </a>
   </p>
 </details>
-
