@@ -29,6 +29,10 @@
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
   </a>
+</p>
+
+### Frameworks & Libraries
+<p align="center">
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask" alt="Flask">
   </a>
