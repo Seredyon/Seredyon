@@ -44,7 +44,7 @@
   </a>
 </p>
 
-<h2 align="center">💻 Supported Platforms</h2>
+<h2 align="center">🪟 Supported Platforms</h2>
 
 ### Operating Systems
 <p align="center">
