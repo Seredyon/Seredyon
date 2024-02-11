@@ -15,7 +15,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-### Languages & Frameworks
+### Languages
 <p align="center">
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
