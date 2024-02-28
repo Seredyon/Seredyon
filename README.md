@@ -42,6 +42,9 @@
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python" alt="Tkinter">
   </a>
+  <a href="https://github.com/Seredyon">
+    <img src="https://img.shields.io/badge/kivymd-black?style=for-the-badge&logo=kivy" alt="KivyMD">
+  </a>
 </p>
 
 <h2 align="center">🪟 Supported Platforms</h2>
