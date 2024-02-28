@@ -42,7 +42,7 @@
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python" alt="Tkinter">
   </a>
-  <a [href=“https://github.com/kivymd/KivyMD”> <img src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png">
+  <a [href=“https://github.com/kivymd/KivyMD”> 
   </a>
 </p>
 
