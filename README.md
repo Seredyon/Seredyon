@@ -42,7 +42,7 @@
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python" alt="Tkinter">
   </a>
-  <a [href=“https://github.com/kivymd/KivyMD”> <img src=“https://img.shields.io/badge/kivymd-black?style=for-the-badge&logo=python” alt=“KivyMD”](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fkivy%2F&psig=AOvVaw1l-YVptMaA0Na6FeerFz0T&ust=1709227477245000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjSldjGzoQDFQAAAAAdAAAAABAR)>
+  <a [href=“https://github.com/kivymd/KivyMD”> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fkivy%2F&psig=AOvVaw1l-YVptMaA0Na6FeerFz0T&ust=1709227477245000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjSldjGzoQDFQAAAAAdAAAAABAR">
   </a>
 </p>
 
