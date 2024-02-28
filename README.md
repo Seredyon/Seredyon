@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python" alt="Tkinter">
   </a>
   <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/kivymd-black?style=for-the-badge&logo=kivy" alt="KivyMD">
+    <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python" alt="KivyMD">
   </a>
 </p>
 
