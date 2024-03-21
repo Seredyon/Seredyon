@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Hi there! I'm a Software Engineer specializing in Python, with experience in PyQt5, Tkinter & KivyMD for Desktop/Mobile App development.</b><br><br>
-  <i>Let's craft apps together!</i><br>
+  <i>code onelov3 <3</i><br>
 </p>
 
 <h2 align="center">🛠️ Skills</h2>
