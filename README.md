@@ -21,6 +21,9 @@
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
   </a>
   <a href="https://github.com/Seredyon">
+    ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+  </a>
+  <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">
   </a>
   <a href="https://github.com/Seredyon">
