@@ -50,29 +50,29 @@
   </a>
 </p>
 
-<h2 align="center">🪟 Supported Platforms</h2>
+<h2 align="center">🪟 Used Platforms</h2>
 
 ### Operating Systems
 <p align="center">
   <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" alt="Windows">
-  </a>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  </a>  
   <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android" alt="Android">
+    <img src="https://img.shields.io/badge/Android-36C676?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   </a>
-</p>
+</p> 
+
 
 <h2 align="center">Contact me 📫</h2>
 
 <p align="center">
   <a href="https://t.me/Ice_vol0w_Come">
-    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-</p>
 
 <details>
-  <summary><h2 align="center">GitHub Stats</h2></summary>
-  <p align="center">
+  <summary><h2 align="center">📈 GitHub Stats</h2></summary>
+  <p align="center"> 
     <a href="https://github.com/Seredyon">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seredyon&theme=transparent" />
     </a>
