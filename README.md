@@ -55,7 +55,7 @@
 ### Operating Systems
 <p align="center">
   <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
   </a>  
   <a href="https://github.com/Seredyon">
     <img src="https://img.shields.io/badge/Android-36C676?style=for-the-badge&logo=android&logoColor=white" alt="Android">
