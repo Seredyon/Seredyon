@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you ~ ✨</h1>
 
 <p align="center">
-  <b>Hi there! I'm a Software Engineer specializing in Python, with experience in PyQt5, Tkinter & KivyMD for Desktop/Mobile App development.</b><br><br>
+  <b>Hi there! I'm a pathetic amateur specializing in Python, with experience in PyQt5, Tkinter & KivyMD for Desktop/Mobile App development.</b><br><br>
   <i>code onelov3 <3</i><br>
 </p>
 
