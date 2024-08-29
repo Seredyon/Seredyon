@@ -66,7 +66,7 @@
 <h2 align="center">Contact me 📫</h2>
 
 <p align="center">
-  <a href="https://t.me/Ice_vol0w_Come">
+  <a href="https://t.me/Seredyon">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 
