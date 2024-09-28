@@ -1,18 +1,3 @@
-<h1 align="center">Nice to meet you ~ ✨</h1>
-
-<p align="center">
-  <b>Hi there! I'm a pathetic amateur specializing in Python, with experience in PyQt5, Tkinter & KivyMD for Desktop/Mobile app craft.</b><br><br>
-  <i>code onelov3 <3</i><br>
-</p>
-
-<h2 align="center">🛠️ Skills</h2>
-
-<ul>
-  <li><b>Application Development:</b> Creating native Python applications for various platforms from scratch using PyQt5 and Tkinter.</li>
-  <li><b>UI & UX Design.</li>
-  <li><b>Web Development:</b> Building simple websites using HTML5, CSS, JS.</li>
-</ul>
-
 <h2 align="center">💻 Tech Stack</h2>
 
 ### Languages
