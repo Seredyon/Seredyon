@@ -19,22 +19,6 @@
   </a>
 </p>
 
-### Frameworks & Libraries
-<p align="center">
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask" alt="Flask">
-  </a>
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/pyqt5-black?style=for-the-badge&logo=qt" alt="PyQt5">
-  </a>
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=python" alt="Tkinter">
-  </a>
-  <a href="https://github.com/Seredyon">
-    <img src="https://img.shields.io/badge/kivymd-black?style=for-the-badge&logo=python" alt="KivyMD">
-  </a>
-</p>
-
 <h2 align="center">🪟 Used Platforms</h2>
 
 ### Operating Systems
