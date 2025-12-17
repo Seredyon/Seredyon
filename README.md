@@ -9,7 +9,7 @@
 
 ### Operating Systems
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55" alt="Windows" title="Windows"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55" height="55" alt="Android" title="Android"/><img src="https://cdn.simpleicons.org/apple/white" width="50" height="50" alt="macOS" title="macOS"/>
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48" height="48" alt="Windows" title="Windows"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55" height="55" alt="Android" title="Android"/><img src="https://skillicons.dev/icons?i=apple&theme=dark" width="48" height="48" alt="macOS" title="macOS"/>
 </p> 
 
 <h2 align="center">Contact me 📫</h2>
