@@ -17,7 +17,7 @@
 ### Operating Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48" height="48" alt="Windows" title="Windows" />
-  <img src="https://skillicons.dev/icons?i=android&theme=dark" width="48" height="48" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" title="Android" />
   <img src="https://skillicons.dev/icons?i=apple&theme=dark" width="48" height="48" alt="macOS" title="macOS" />
 </p> 
 
