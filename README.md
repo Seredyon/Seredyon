@@ -15,7 +15,7 @@
 <h3 align="center">Operating Systems</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,androidstudio,apple&theme=dark&perline=3" alt="Operating Systems" />
+  <img src="https://skillicons.dev/icons?i=windows,android,apple&theme=dark&perline=3" alt="Operating Systems" />
 </p>
 
 <br>
