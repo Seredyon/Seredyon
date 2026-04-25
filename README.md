@@ -14,9 +14,19 @@
 
 <h3 align="center">Operating Systems</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,android,apple&theme=dark&perline=3" alt="Operating Systems" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48" height="48" alt="Windows" title="Windows" />
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" title="Android" />
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=apple&theme=dark" width="48" height="48" alt="macOS" title="macOS" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
