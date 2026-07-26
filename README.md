@@ -2,7 +2,7 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">Like:</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,go,dart,html,css,js,flutter,docker,git&theme=dark" alt="Languages & Tools" />
@@ -12,7 +12,7 @@
 
 <h2 align="center">Used Platforms</h2>
 
-<h3 align="center">Operating Systems</h3>
+<h3 align="center">Operating Systems:</h3>
 
 <table align="center">
   <tr>
