@@ -30,7 +30,7 @@
 
 <br>
 
-<h2 align="center">Contact me 📫</h2>
+<h2 align="center">Contact me</h2>
 
 <p align="center">
   <a href="https://t.me/Seredyon">
