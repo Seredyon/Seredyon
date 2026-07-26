@@ -1,6 +1,6 @@
 <br>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <h3 align="center">Languages & Tools</h3>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<h2 align="center">🪟 Used Platforms</h2>
+<h2 align="center">Used Platforms</h2>
 
 <h3 align="center">Operating Systems</h3>
 
